@@ -5,7 +5,7 @@ command_Norma_usdt_killBotton = 'tmux attach-session -t TEST -d'
 command_Norma_usdt_startBotton = 'bash start_norma_arbitrage.sh norma.json'
 command_Norma_usdt_stopBotton = 'bash stop_norma_arbitrage.sh norma.json'
 
-ssh_Norma_usdt_host = '89.58.33.148' 
+ssh_Norma_usdt_host = '89.58.33.148'
 ssh_Norma_usdt_user = 'root'
 ssh_Norma_usdt_pwd = '5DUYMDBg55ahFGH'
 
